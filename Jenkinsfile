@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('check') {
             steps {
-                echo "sdfds"
+                echo "jumba"
             }
         }
     }
