@@ -12,7 +12,7 @@
 "Content":"This stage will do the Quality analysis for the code",
 },
 "Stage4":{
-"Name":"Unit_Test",
+"Name":"Unitt_Test",
 "Content":"This stage will do the Unit test for the code whter the basic functionality is working or not",
 }
 }
